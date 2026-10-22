@@ -2,29 +2,36 @@
 
 **Full-stack developer · Computational Mathematics @ University of Waterloo**
 
-I like taking a problem from “what should this do?” to working software—designing the data model, building the backend, and making the frontend useful. I’ve worked at a cryptography startup, built features for school food delivery, and modernized software at the Toronto Transit Commission.
+I enjoy taking ideas through to working software, from data models and APIs to intuitive interfaces. I’ve built software across startups, finance, healthcare, food delivery, and transit.
 
-**Looking for a Winter 2027 software engineering internship · January–April**
+**Seeking a Winter 2027 software engineering internship · January–April**
 
 [LinkedIn](https://www.linkedin.com/in/lia-moradpour/) · [Trip Planner demo ↗](https://liamoradpour-trip-planner.vercel.app/)
 
 ## Experience
 
-- **Qorsa** — Helped establish a financial platform’s full-stack foundation at a startup specializing in cryptography. Built backend authentication with server-side tokens, three role tiers, and access controls across 15+ endpoints, plus a calculation engine for 16 financial indicators and interactive dashboards.
-- **KEV Group** — Built lunch-delivery rescheduling features with React and Redux, including date validation and availability rules to help schools and food vendors handle disruptions like snow days.
-- **Toronto Transit Commission** — Helped modernize a legacy bus-maintenance cost-tracking system and automated budget data imports to replace manual steps.
+- **Qorsa** — Built full-stack financial software at a cryptography startup, including authentication, three role tiers across 15+ endpoints, and dashboards powered by a 16-indicator calculation engine.
+- **KEV Group** — Built React/Redux lunch-delivery rescheduling features to help schools and vendors handle disruptions like snow days.
+- **Align Home Healthcare** — Built medical and asset data forms, plus authentication and access controls for 3,000+ patient records.
+- **Toronto Transit Commission** — Helped modernize bus-maintenance cost-tracking software and automate budget data imports.
+- **CyberAI** — Built SwiftUI interfaces and Google/Apple sign-in flows from Figma designs.
 
-## Projects & community
+## Projects & research
 
-- **[Trip Planner](https://liamoradpour-trip-planner.vercel.app/)** — A personal trip-planning app I built and deployed.
-- **Women in Computer Science** — Served as Systems Administrator and Event Planner on Waterloo’s Undergraduate Committee, maintaining our React website and organizing student events.
+- **Wat.AI · Software Engineer** — Developing full-stack features for a Cross-Asset Market Intelligence & Regime Analysis Platform.
+- **Directed Reading Program · AI Agent Security** — Studying indirect prompt injection in tool-using agents, including MELON defenses and AgentDojo evaluations.
+- **[Trip Planner](https://liamoradpour-trip-planner.vercel.app/)** — Built and deployed a personal trip-planning app.
+
+## Community
+
+- **Women in Computer Science** — Systems Administrator and Event Planner, maintaining our React website and organizing student events.
 - **Data Science Club** — Served two terms as VP of Events.
 
 ## My toolkit
 
 **Languages** · TypeScript, JavaScript, Python, SQL  
-**Frontend** · React, Redux  
-**Backend & data** · FastAPI, PostgreSQL  
+**Frontend** · React, Redux, SwiftUI  
+**Backend & data** · FastAPI, ASP.NET, PostgreSQL, SQL Server  
 **Infrastructure & auth** · Docker, Keycloak, OpenID Connect
 
-I’m especially interested in small teams where I can own features across the stack, work closely with users, and learn by shipping.
+I’m drawn to small teams where I can own features, work closely with users, and learn by shipping.
